@@ -28,19 +28,19 @@ global.info = {
   pairingNumber: '6282228545461',
   packname : 'sticker by ',
   author : 'kabani bot',
-  namebot : '乂 NightMare - MD',
-  wm : 'N I G H T M A R E  -  M D',
+  namebot : '乂 kabani  - MD',
+  wm : 'gabani bot  -  M D',
   stickpack : 'Whatsapp',
-  stickauth : 'Bot - MD'
+  stickauth : 'Bot kabani'
 }
 
 global.url = {
- sig: 'https://instagram.com/tulisan.ku.id',
- sgh:  'https://github.com/Tiooxy',
+ sig: 'https://instagram.com',
+ sgh:  'https://github.com',
  sgc: 'https://chat.whatsapp.com/',
  thumb: ' ',
- thumbnail: 'https://telegra.ph/file/07428fea2fd4dccaab65f.jpg',
- urlError: 'https://telegra.ph/file/a6294049a1863a69154cf.jpg',
+ thumbnail: 'https://qu.ax/siNcs.jpg',
+ urlError: 'https://qu.ax/siNcs.jpg',
 }
 // Donasi
 global.payment = {
@@ -50,8 +50,8 @@ global.payment = {
 }
 // Info Wait
 global.msg = {
- wait: '⏱️ *Mohon bersabar*\n\> Sedang menjalankan perintah dari *User*!',
- eror: '🤖 *Information Bot*\n\> Mohon maaf atas ketidaknyamanan dalam menggunakan *Nightmare Bot* . Ada kesalahan dalam sistem saat menjalankan perintah.',
+ wait: '⏱️ انتظر او اعلمك الانتظار *User*!',
+ eror: '🤖 *Information Bot*\n\> للاسف هناك خطأ.',
  danied: 'Kamu tidak memiliki akses'
 }
 
