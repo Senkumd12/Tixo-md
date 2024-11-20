@@ -4,7 +4,7 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 
 // Owner
 global.owner = [
-  ['6282285357346', 'Tio', 'satriopambudi866@gmail.com', true]
+  ['212625457341', 'kabani dev', 'aligueahmed6@gmail.com', true]
 ]
 
 global.APIs = { 
@@ -22,12 +22,12 @@ global.setting = {
 
 global.info = {
   version: 'beta.version_1',
-  nameBot: 'Tixo Md',
-  nameOwn : 'Tioo',
-  nomerOwn : '6282285357346',
+  nameBot: 'kabani bot',
+  nameOwn : 'kabani bot',
+  nomerOwn : '212625457341',
   pairingNumber: '6282228545461',
   packname : 'sticker by ',
-  author : 'N I G H T M A R E',
+  author : 'kabani bot',
   namebot : '乂 NightMare - MD',
   wm : 'N I G H T M A R E  -  M D',
   stickpack : 'Whatsapp',
